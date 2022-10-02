@@ -1,0 +1,52 @@
+.fivecontent {
+  padding-top: 260px;
+  padding-left: 150px;
+  padding-right: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+.testimonials {
+  .stars {
+    display: flex;
+    padding-top: 120px;
+    li {
+      padding-right: 17px;
+    }
+  }
+  .texttwo {
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    width: 470px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    mix-blend-mode: normal;
+    .cruzok {
+      position: absolute;
+      right: 570px;
+      top: 90px;
+    }
+  }
+  .ed {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    color: #000000;
+    mix-blend-mode: normal;
+  }
+  .foun {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 48px;
+    color: rgba(0, 0, 0, 0.85);
+    mix-blend-mode: normal;
+  }
+}

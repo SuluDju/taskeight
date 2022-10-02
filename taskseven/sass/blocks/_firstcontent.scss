@@ -1,0 +1,77 @@
+.firstcontent {
+  margin-top: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu {
+  .stroka {
+    display: flex;
+    padding-bottom: 80px;
+    .ex {
+      font-family: "Playfair Display";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 64px;
+      line-height: 80px;
+      color: #202336;
+    }
+    .krest {
+      padding-left: 120px;
+      padding-bottom: 110px;
+    }
+  }
+  .strokatwo {
+    .holiday {
+      font-family: "Inter";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 25px;
+      line-height: 27px;
+      color: #202336;
+    }
+    .cherta {
+      background: #202336;
+      border-radius: 4px;
+    }
+    .circle {
+      padding-top: 15px;
+      margin-left: -50px;
+    }
+  }
+}
+.form {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 32px;
+  color: #4a4c53;
+
+  mix-blend-mode: normal;
+  padding-bottom: 50px;
+
+  select {
+    margin: 20px 20px 20px 0px;
+    width: 220px;
+    height: 52px;
+    border: 0.8px solid #afb0b9;
+    border-radius: 6px;
+  }
+}
+.explore {
+  width: 140px;
+  background: #fb8f1d;
+  border-radius: 8px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 60px;
+  color: #ffffff;
+}
+.oval {
+    padding-left: 450px;
+}

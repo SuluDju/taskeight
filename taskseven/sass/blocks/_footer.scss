@@ -1,0 +1,61 @@
+.footer {
+  padding-top: 200px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background: #f9f9fb;
+}
+.ulone {
+  ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  li {
+.textplan {
+    padding-top: 30px;
+}
+    h5 {
+        font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 60px;
+color: #000000;
+
+mix-blend-mode: normal;
+    }
+
+    h6 {
+        font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 38px;
+color: #848484;
+
+mix-blend-mode: normal;
+    }
+    p {
+        max-width: 300px;
+        font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+color: #848484;
+
+mix-blend-mode: normal;
+    }
+  }
+}
+.chertaa {
+    padding-top: 80px;
+    padding-bottom: 35px;
+    text-align: center;
+}
+.social {
+    text-align: center;
+    img {
+        padding-right: 40px;
+        padding-bottom: 40px;
+    }
+}

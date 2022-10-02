@@ -1,0 +1,72 @@
+.sixcontent {
+  padding-top: 220px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.stories {
+}
+.crestsix {
+    padding-left: 660px;
+}
+.story {
+  padding-top: 40px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .all {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 60px;
+    color: #fb8f1d;
+    mix-blend-mode: normal;
+  }
+}
+.imagefour {
+    ul {
+    display: flex;
+    justify-content: space-between;
+}
+li {
+    width: 280px;
+    h4 {
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 30px;
+color: #000000;
+
+mix-blend-mode: normal;
+    }
+    p {
+        font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+
+
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+    }
+    a {
+        font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 28px;
+color: #FB8F1D;
+mix-blend-mode: normal;
+    }
+}
+}
+.crugsix {
+    padding-top: 60px;
+    padding-left: 1300px;
+}

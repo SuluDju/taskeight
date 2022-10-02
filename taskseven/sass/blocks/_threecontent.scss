@@ -1,0 +1,61 @@
+.threecontent {
+  padding-top: 280px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.firststep {
+  text-align: right;
+  padding-right: 180px;
+  padding-bottom: 40px;
+}
+.twostep {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .view {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    color: #fb8f1d;
+    mix-blend-mode: normal;
+  }
+}
+.threestep {
+  padding-top: 60px;
+  ul {
+    .raja {
+      position: relative;
+    }
+    .crestik {
+      position: absolute;
+    right: 360px;
+    top: 190px;
+    }
+  }
+
+  .image {
+    img {
+      border-radius: 9px;
+    }
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .indonesia {
+      position: absolute;
+      bottom: 4px;
+    }
+    .indo {
+      color: #80918e;
+      font-size: 16px;
+    }
+  }
+}
+.fourstep {
+  padding-top: 60px;
+
+  padding-left: 730px;
+}
